@@ -1,0 +1,43 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    text-align : center;
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    color : blue;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color:rgb(189, 37, 37);
+}
+
+.centered-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    font-size: large;
+}
+
+a+a{
+    margin-left : 20px;
+}
+
+ul{
+    display: inline-block;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+p+ul{
+    margin-top: -10px;
+}
