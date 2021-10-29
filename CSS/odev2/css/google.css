@@ -1,0 +1,50 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.button-margin{
+    margin-top: 10px;
+}
+
+.container {
+  margin: 0 5%;
+}
+
+
+.left-card {
+  width: 40%;
+  height: 60px;
+  float: left;
+  margin-top: 2px;
+  text-align: center;
+  background-color: #7EE5DA;
+  padding: 10px 0;
+}
+
+.right-card {
+  width: 38%;
+  height: 80px;
+  float: left;
+  margin-top: 2px;
+  text-align: center;
+  background-color: #62B3AA;
+}
+
+.middle-card {
+  width: 21.8%;
+  height: 75px;
+  padding: 5px 0 0 0 ;
+  float: left;
+  margin: 2px 0.1% 0 0.1%;
+  text-align: center;
+  background-color: #70CCC2;
+  
+}
+
+.search-card {
+  padding: 1px;
+  background-color: #EEEEEE;
+}
